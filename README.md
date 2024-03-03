@@ -15,8 +15,9 @@ https://media.wizards.com/2020/dnd/downloads/dnd_starter_rulebook.pdf
 | Healing Word       | Inflict Wounds       | Silence            | Spirit Guardians       |  
 |                    | Sanctuary            | Spiritual Weapon   |                        |  
 |                    | Shield of Faith      | Warding Bond       |                        |  
-|                    |                      |                    |                        |  
+
 | Wizard Spells:     |                      |                    |                        |  
+|--------------------|----------------------|--------------------|------------------------|
 | Cantrips (0 Level) |       1st Level      |      2nd Level     |        3rd Level       |  
 | Dancing Lights     | Burning Hands        | Blur               | Dispel Magic           |  
 | Light              | Charm Person         | Darkness           | Fireball               |  
