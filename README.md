@@ -4,9 +4,9 @@
 
 ## Spells
 https://media.wizards.com/2020/dnd/downloads/dnd_starter_rulebook.pdf
-| Cleric Spells:     |                      |                    |                        | 
-|--------------------|----------------------|--------------------|------------------------|
+### Cleric Spells:  
 | Cantrips (0 Level) |       1st Level      |      2nd Level     |        3rd Level       |  
+|--------------------|----------------------|--------------------|------------------------|
 | Guidance           | Bless                | Aid                | Beacon of Hope         |  
 | Light              | Command              | Augury             | Dispel Magic           |  
 | Resistance         | Cure Wounds          | Hold Person        | Mass Healing Word      |  
@@ -16,9 +16,9 @@ https://media.wizards.com/2020/dnd/downloads/dnd_starter_rulebook.pdf
 |                    | Sanctuary            | Spiritual Weapon   |                        |  
 |                    | Shield of Faith      | Warding Bond       |                        |  
 
-| Wizard Spells:     |                      |                    |                        |  
-|--------------------|----------------------|--------------------|------------------------|
+### Wizard Spells:
 | Cantrips (0 Level) |       1st Level      |      2nd Level     |        3rd Level       |  
+|--------------------|----------------------|--------------------|------------------------|
 | Dancing Lights     | Burning Hands        | Blur               | Dispel Magic           |  
 | Light              | Charm Person         | Darkness           | Fireball               |  
 | Mage Hand          | Comprehend Languages | Flaming Sphere     | Fly                    |  
