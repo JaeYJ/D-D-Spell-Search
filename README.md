@@ -30,4 +30,5 @@ https://media.wizards.com/2020/dnd/downloads/dnd_starter_rulebook.pdf
 |                    | Sleep                | Web                |                        |  
 
 
-## 
+## Tools
+- Next.JS and Flask
